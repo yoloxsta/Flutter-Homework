@@ -4,11 +4,11 @@ void main() {
   print('Name: $name');
 
   // int - whole numbers
-  int age = 30;
+  int age = 23;
   print('Age: $age');
 
   // double - decimal numbers
-  double height = 5.9;
+  double height = 5.5;
   print('Height: $height');
 
   // bool - true or false
