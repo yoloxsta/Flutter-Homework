@@ -1,6 +1,6 @@
 void main() {
   // String - text
-  String name = 'Soe Tintaung';
+  String name = 'Soe Tint aung';
   print('Name: $name');
 
   // int - whole numbers
